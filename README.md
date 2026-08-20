@@ -1,0 +1,15 @@
+index.html
+assets/
+   cashew.jpg
+   chocolates.jpg
+   dairy.jpg
+   cookies.jpg
+   gulkand.jpg
+   masala.jpg
+   rice-mill.jpg
+   cold-drink.jpg
+   pm1.jpg
+   pm2.jpg
+   ...
+   surties.mp4
+   ghanshyam-flour-mill.mp4
